@@ -8,7 +8,7 @@ library(rasterVis)
 #Specify target ISO country code and path to downloaded shapefile
 
 country_name <- "AUT"                             #Austria
-shp          <- shapefile("srtm/tiles.shp")       #Path to SRTM Tiles (can be found in subfolder srtm)
+shp          <- shapefile("C:/Users/sophi/Documents/geografia/diplom/data/kapitola3/srtm_country-master/srtm_country/srtm/tiles.shp")       #Path to SRTM Tiles (can be found in subfolder srtm)
 
 
 #------------EXECUTE FROM HERE--------------
